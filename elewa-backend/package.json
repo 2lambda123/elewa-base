@@ -19,7 +19,7 @@
     "@nestjs/testing": "^4.4.0",
     "@nestjs/websockets": "^4.4.0",
     "apollo-server-express": "^1.3.2",
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.1.1",
     "cors": "^2.8.4",
     "elewa-shared": "file:../elewa-shared",
     "graphql": "0.11.7",
